@@ -59,8 +59,8 @@ class Menu:
             self.menu_text(80, "Attack", C_RED, (WIN_WIDTH / 2, 260))
 
             self.menu_text(30, "COMMANDS", C_BLACK, (WIN_HEIGHT / 6, 550))
-            self.menu_text(24, "ARROWS TO SELECT OPTIONS", C_BLACK, (WIN_HEIGHT / 1, 630))
             self.menu_text(24, "PRESS ENTER TO SELECT", C_BLACK, (WIN_HEIGHT / 1, 600))
+            self.menu_text(24, "ARROWS TO SELECT OPTIONS", C_BLACK, (WIN_HEIGHT / 1, 630))
             self.menu_text(24, "SPACE - ATTACK", C_BLACK, (WIN_HEIGHT / 6, 580))
             self.menu_text(24, "WASD - MOVE", C_BLACK, (WIN_HEIGHT / 6, 600))
 
